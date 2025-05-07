@@ -41,4 +41,4 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: [kimnabin@example.com](mailto:nabinkim.developer@gmail.com)
+- ✉️ Email: [nabinkim.developer@gmail.com](mailto:nabinkim.developer@gmail.com)
