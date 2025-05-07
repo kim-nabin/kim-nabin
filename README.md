@@ -1,4 +1,4 @@
 <!--타이틀 부분-->
 <div align="center">
-  나는 구마다
+ [![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-nabin)](https://github.com/anuraghazra/github-readme-stats)
 </div>
